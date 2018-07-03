@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DependencyInjection.JsonSetting</id>
+    <version>2.1.0</version>
+    <authors>DependencyInjection.JsonSetting</authors>
+    <owners>DependencyInjection.JsonSetting</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="c:\users\chen yuxin\documents\visual studio 2017\Projects\DependencyInjection.Json\DependencyInjection.Json\bin\Release\netstandard2.0\DependencyInjection.JsonSetting.dll" target="lib\netstandard2.0\DependencyInjection.JsonSetting.dll" />
+    <file src="c:\users\chen yuxin\documents\visual studio 2017\Projects\DependencyInjection.Json\DependencyInjection.Json\bin\Release\netstandard2.0\DependencyInjection.JsonSetting.xml" target="lib\netstandard2.0\DependencyInjection.JsonSetting.xml" />
+  </files>
+</package>

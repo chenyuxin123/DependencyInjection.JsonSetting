@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DependencyInjection.JsonSetting</name>
+    </assembly>
+    <members>
+        <member name="M:Microsoft.Extensions.DependencyInjection.ServiceCollectionAddServiceExtensions.AddService(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            注册服务，默认配置节为 Services
+            </summary>
+            <param name="services"></param>
+            <param name="configuration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.ServiceCollectionAddServiceExtensions.AddService(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Collections.Generic.IList{Microsoft.Extensions.DependencyInjection.ServiceOption})">
+            <summary>
+            注册服务
+            </summary>
+            <param name="services"></param>
+            <param name="serviceOptions"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Microsoft.Extensions.DependencyInjection.ServiceOption">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.ServiceOption.ServiceType">
+            <summary>
+            服务类型
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.ServiceOption.ImplementationType">
+            <summary>
+            实现类型
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.ServiceOption.ServiceAssemblyName">
+            <summary>
+            服务类型程序集名称
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.ServiceOption.ImplementationAssemblyName">
+            <summary>
+            实现类型程序集名称
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.ServiceOption.ServiceLifttime">
+            <summary>
+            生命周期
+            </summary>
+        </member>
+    </members>
+</doc>
