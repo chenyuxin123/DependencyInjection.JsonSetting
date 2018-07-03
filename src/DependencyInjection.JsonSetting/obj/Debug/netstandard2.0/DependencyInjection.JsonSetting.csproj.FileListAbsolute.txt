@@ -7,3 +7,12 @@ c:\users\chen yuxin\documents\visual studio 2017\Projects\DependencyInjection.Js
 c:\users\chen yuxin\documents\visual studio 2017\Projects\DependencyInjection.Json\DependencyInjection.Json\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.AssemblyInfo.cs
 c:\users\chen yuxin\documents\visual studio 2017\Projects\DependencyInjection.Json\DependencyInjection.Json\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.dll
 c:\users\chen yuxin\documents\visual studio 2017\Projects\DependencyInjection.Json\DependencyInjection.Json\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.pdb
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\bin\Debug\netstandard2.0\DependencyInjection.JsonSetting.deps.json
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\bin\Debug\netstandard2.0\DependencyInjection.JsonSetting.dll
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\bin\Debug\netstandard2.0\DependencyInjection.JsonSetting.pdb
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.csprojAssemblyReference.cache
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.csproj.CoreCompileInputs.cache
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.AssemblyInfoInputs.cache
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.AssemblyInfo.cs
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.dll
+D:\GitHub\DependencyInjection.JsonSetting\src\DependencyInjection.JsonSetting\obj\Debug\netstandard2.0\DependencyInjection.JsonSetting.pdb

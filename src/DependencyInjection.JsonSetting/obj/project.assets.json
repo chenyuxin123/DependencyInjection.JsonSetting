@@ -500,11 +500,11 @@
   "project": {
     "version": "2.1.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\chen yuxin\\documents\\visual studio 2017\\Projects\\DependencyInjection.Json\\DependencyInjection.Json\\DependencyInjection.JsonSetting.csproj",
+      "projectUniqueName": "D:\\GitHub\\DependencyInjection.JsonSetting\\src\\DependencyInjection.JsonSetting\\DependencyInjection.JsonSetting.csproj",
       "projectName": "DependencyInjection.JsonSetting",
-      "projectPath": "c:\\users\\chen yuxin\\documents\\visual studio 2017\\Projects\\DependencyInjection.Json\\DependencyInjection.Json\\DependencyInjection.JsonSetting.csproj",
+      "projectPath": "D:\\GitHub\\DependencyInjection.JsonSetting\\src\\DependencyInjection.JsonSetting\\DependencyInjection.JsonSetting.csproj",
       "packagesPath": "C:\\Users\\Chen Yuxin\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\chen yuxin\\documents\\visual studio 2017\\Projects\\DependencyInjection.Json\\DependencyInjection.Json\\obj\\",
+      "outputPath": "D:\\GitHub\\DependencyInjection.JsonSetting\\src\\DependencyInjection.JsonSetting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,15 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.JsonSetting", "DependencyInjection.Json\DependencyInjection.JsonSetting.csproj", "{A2DE0324-2F5D-4282-8775-A02493F24CBF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{120E3208-C7F1-4222-94E1-A9C058CBC2EA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYX.Interface", "CYX.Interface\CYX.Interface.csproj", "{EC9DCD06-CB4C-434A-8412-14665A3EA8F1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYX.Class", "CYX.Class\CYX.Class.csproj", "{DB5DF1F6-A24F-417E-B944-7B9653C1E376}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYX.Class2", "CYX.Class2\CYX.Class2.csproj", "{8D5D9B26-A84F-4BF0-ADA3-58715E06A500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection.JsonSetting", "DependencyInjection.JsonSetting\DependencyInjection.JsonSetting.csproj", "{5176F248-0DAA-4351-9448-4FB3B7AF18D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,26 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A2DE0324-2F5D-4282-8775-A02493F24CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2DE0324-2F5D-4282-8775-A02493F24CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2DE0324-2F5D-4282-8775-A02493F24CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2DE0324-2F5D-4282-8775-A02493F24CBF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{120E3208-C7F1-4222-94E1-A9C058CBC2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{120E3208-C7F1-4222-94E1-A9C058CBC2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{120E3208-C7F1-4222-94E1-A9C058CBC2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{120E3208-C7F1-4222-94E1-A9C058CBC2EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC9DCD06-CB4C-434A-8412-14665A3EA8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC9DCD06-CB4C-434A-8412-14665A3EA8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC9DCD06-CB4C-434A-8412-14665A3EA8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC9DCD06-CB4C-434A-8412-14665A3EA8F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DB5DF1F6-A24F-417E-B944-7B9653C1E376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB5DF1F6-A24F-417E-B944-7B9653C1E376}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB5DF1F6-A24F-417E-B944-7B9653C1E376}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB5DF1F6-A24F-417E-B944-7B9653C1E376}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D5D9B26-A84F-4BF0-ADA3-58715E06A500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D5D9B26-A84F-4BF0-ADA3-58715E06A500}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D5D9B26-A84F-4BF0-ADA3-58715E06A500}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D5D9B26-A84F-4BF0-ADA3-58715E06A500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5176F248-0DAA-4351-9448-4FB3B7AF18D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5176F248-0DAA-4351-9448-4FB3B7AF18D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5176F248-0DAA-4351-9448-4FB3B7AF18D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5176F248-0DAA-4351-9448-4FB3B7AF18D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

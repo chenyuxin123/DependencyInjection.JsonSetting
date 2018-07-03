@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "DependencyInjection.JsonSetting/1.0.0": {
+      "DependencyInjection.JsonSetting/2.1.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration": "2.1.0",
           "Microsoft.Extensions.Configuration.Binder": "2.1.0",
@@ -128,7 +128,7 @@
     }
   },
   "libraries": {
-    "DependencyInjection.JsonSetting/1.0.0": {
+    "DependencyInjection.JsonSetting/2.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
